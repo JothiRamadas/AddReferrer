@@ -26,9 +26,9 @@ Feature: As a Admin user I
 
     Examples:
     |referrername |referreremailid        |referrerphone|
-    |Kelly      |kelly.asc@gmail.com      |12358347456  |
-    #|Anvi         |anvi.fgr@gmail.com    |25648236125  |
-    #|varun     |varun.vfr@gmail.com      |36987524589  |
-    #|shan      |shan.brf@gmail.com       |65897452658  |
+    #|Kelly      |kelly.asc@gmail.com      |12358347456  |
+    |kumar        |kumar84.nks@gmail.com    |25648236125  |
+    #|arun     |arun.salm@gmail.com      |36987524589  |
+    #|Ruba      |ruba.brf@gmail.com       |65897452658  |
 
 
